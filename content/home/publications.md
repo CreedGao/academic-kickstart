@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "Conference"
+    author = "Jiechao Gao"
     exclude_featured = false
   
 [design]
