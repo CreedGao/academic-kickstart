@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+title = "abc"
+view = 3
