@@ -7,8 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "what is this"
+tag = ""
+category = ""
+publication_type = "Conference"
+author = "Jiechao Gao"
+exclude_featured = false
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,11 +30,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = "Conference"
-    author = "Jiechao Gao"
-    exclude_featured = false
+
   
 [design]
   # Toggle between the various page layout types.
