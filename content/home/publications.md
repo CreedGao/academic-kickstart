@@ -7,15 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+title = "Recent Publications"
+subtitle = ""
+tag = ""
+category = ""
+publication_type = "Conference"
+author = "Jiechao Gao"
+exclude_featured = false
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
